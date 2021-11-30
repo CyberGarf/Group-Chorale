@@ -1386,7 +1386,7 @@
    </note>
    <direction>
     <direction-type>
-     <words justify="left" valign="middle" font-family="Plantin MT Std" font-style="normal" font-size="10.0763" font-weight="normal" enclosure="rectangle">V(7)      I(6/4)      I        ii(6)     IV       V(6-5)             I</words>
+     <words justify="left" valign="middle" font-family="Plantin MT Std" font-style="normal" font-size="10.0763" font-weight="normal" enclosure="rectangle">V(7)      I      I(6/4)        ii(6)     IV       V(6-5)             I</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
